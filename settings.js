@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94715969401'
+global.OWNER_REACT = '🥰💖'
+global.REACT_NUMBER = '94754827597'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,15 +34,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94715969401'] //ur owner number
+global.vcardowner = ['94754827597'] //ur owner number
 global.ownername = "ᴋᴀᴠɪꜱʜᴀɴ " //ur owner name
 global.ytname = "YT: Nipuna-apps" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['715969401']
-global.ownertag = '715969401' //ur tag number
+global.owner = ['754827597']
+global.ownertag = '754827597' //ur tag number
 global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
@@ -92,7 +92,7 @@ global.mess = {
     group: 'Feature Used Only For Groups! 🇱🇰',
     private: 'Features Used Only For Private Chat! 🇱🇰',
     bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
+    wait: 'In wait 😁',
     linkm: 'Where is the link? 🇱🇰',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
